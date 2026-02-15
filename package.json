@@ -1,6 +1,6 @@
 {
   "name": "@llasha/frontend-app-learning",
-  "version": "release/teak.3-ka.3",
+  "version": "1.0.0-semantically-released",
   "description": "Frontend learning application.",
   "repository": {
     "type": "git",
@@ -35,7 +35,7 @@
     "@edx/brand": "npm:@openedx/brand-openedx@^1.2.2",
     "@edx/browserslist-config": "1.5.0",
     "@edx/frontend-component-footer": "npm:@llasha/frontend-component-footer@14.6.0-ka.1",
-    "@edx/frontend-component-header": "npm:@llasha/frontend-component-header@6.6.0-ka.1",
+    "@edx/frontend-component-header": "npm:@llasha/frontend-component-header@6.6.0-ka.2",
     "@edx/frontend-lib-learning-assistant": "npm:@llasha/frontend-lib-learning-assistant@2.20.0-ka.1",
     "@edx/frontend-lib-special-exams": "npm:@llasha/frontend-lib-special-exams@3.5.0-ka.5",
     "@edx/frontend-platform": "npm:@llasha/frontend-platform@8.3.11-ka.6",
